@@ -1,0 +1,45 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "orchestrator/orchestrator.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "systemjs/systemjs.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "q/Q.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "node/node.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "vinyl/vinyl.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "gulp-plumber/gulp-plumber.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "gulp-changed/gulp-changed.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "typescript/typescript.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "gulp-sourcemaps/gulp-sourcemaps.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    },
+    "core-js/core-js.d.ts": {
+      "commit": "e69daec7f79c0c25c4653f866e5cadb5bb7a01ca"
+    }
+  }
+}
